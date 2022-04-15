@@ -1,2 +1,2 @@
-# python-curse
+# python-course
 Ejercicios de Python
